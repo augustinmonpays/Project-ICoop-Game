@@ -1,0 +1,5 @@
+<strings id="welcome">
+    <string name="game_name">Félicitations ! Vous vous êtes échappés du piège de la Reine.</string>
+    <string name="game_name">Cependant il vous reste encore une épreuve avant d'atteindre votre but !</string>
+    <string name="game_name">Bonne chance...</string>
+</strings>
